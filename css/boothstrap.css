@@ -1,0 +1,23 @@
+
+h3{
+	text-align: center;
+	text-transform: capitalize;
+}
+h4{
+	text-align: center;
+	text-transform: capitalize;
+}
+.col{
+	box-shadow: 0 6px 12px #555;
+}
+a{
+	text-decoration: none;
+	text-transform: uppercase;
+}
+a:hover{
+	color: red;
+}
+.para{
+	text-transform: capitalize;
+	font-size: 20px;
+}
